@@ -1,0 +1,27 @@
+{
+    "name": "js-data-type",
+    "version": "1.0.5",
+    "description": "javascript dataType",
+    "main": "main.js",
+    "scripts": {
+        "build": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lmw6412036/js-data-type.git"
+    },
+    "keywords": [
+        "js"
+    ],
+    "author": "lmw6412036",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lmw6412036/js-data-type/issues"
+    },
+    "homepage": "https://github.com/lmw6412036/js-data-type#readme",
+    "devDependencies": {
+        "auto-version": "^1.0.11",
+        "hprose": "^2.0.43"
+    }
+}
